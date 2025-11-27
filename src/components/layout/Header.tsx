@@ -20,7 +20,7 @@ function Header() {
     return (
         <div id="header-fixed">
             <header id="header">
-                <p>Weather</p>
+                <p>WeatherHub</p>
                 <div className="menu-header">
                     <div 
                         className="icon-menu"

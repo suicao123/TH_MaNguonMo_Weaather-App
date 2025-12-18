@@ -20,6 +20,7 @@ function Header() {
     return (
         <div id="header-fixed">
             <header id="header">
+                <h1>Bài kiểm tra - DH52201173</h1>
                 <p>Weather</p>
                 <div className="menu-header">
                     <div 
